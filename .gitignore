@@ -1,0 +1,11 @@
+build/
+.Xil/
+*.jou
+*.log
+*.str
+*.bit
+*.xpr
+xsim.dir/
+*.wdb
+*.vcd
+zybo_test_sim
